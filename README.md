@@ -1,2 +1,2 @@
-# web-projects
+# web-project
 Counter Program
